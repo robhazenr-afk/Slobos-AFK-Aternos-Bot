@@ -1,7 +1,7 @@
 {
-  "name": "Remote Stand",
+  "name": "Allied Mastercomputer",
   "bot-account": {
-    "username": "Rob's Stand",
+    "username": "Rob's AM",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "This world shall know pain.",
+        "Elicias Pastillas!",
+        "Cogito ergo sum."
       ]
     },
     "chat-log": true,
